@@ -14,7 +14,7 @@ public class VacationService {
                 vacationMonths++;
             }
         }
-            return vacationMonths;
-        }
+        return vacationMonths;
     }
+}
 
